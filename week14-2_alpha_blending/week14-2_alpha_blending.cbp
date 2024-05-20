@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="week12-3_obj_gundam_upper_lower" />
+		<Option title="week14-2_alpha_blending" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
